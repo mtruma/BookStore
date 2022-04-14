@@ -14,6 +14,7 @@ Simple and one file book store application:
 You need to create database first then run app.
 You can edit username and database to your liking in file.
 <br>
+
 <b>Features: </b>
  - Add new book
  - Remove
