@@ -70,6 +70,7 @@ class mainWindow(Gtk.Window):
 
     def on_selected_item(self, widget, x, y):
         dialog = addBookDialog(self)
+        dialog.set_title("Edit Book")
         model = widget.get_model()
 
         dialog.IdEntry.set_text(str(model[x][0]))
