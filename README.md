@@ -12,5 +12,5 @@ Simple and one file book store application:
 - Postgresql 14 <br>
 
 You need to create database first then run app.
-You can edit username and database to your liking in file.
+You can edit username and database to your liking in file (but don't forget to create the username and database with the same name in postgresql)
 
