@@ -6,6 +6,7 @@ from gi.repository import Gtk
 
 books_list = [(0)]
 
+# Change username and database name to your liking and create them in postgresql
 username = "postgres"
 database = "book_store"
 
